@@ -1,4 +1,4 @@
-**開發環境**:以下三種都有支援
+**開發環境**:以下三種都有支援  
 1.Visual Studio 2012可以安裝Web Essentials 2012擴充套件，安裝完就預設啟用  
 2.Sublime Text 2，透過Package Control尋搜"Zen Coding"安裝後也能取得支援  
 3.NotePad++  
